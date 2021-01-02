@@ -19,7 +19,7 @@ def setup():
 def banner():
     os.system('clear')
     print(a+'Shortcut for help you'.center(40))
-    print(b+'MrG3P5'.center(40))
+    print(b+'Drawl Nag'.center(40))
     print("".join([i for i in "\n"*3]))
 
 
@@ -33,6 +33,6 @@ if __name__=='__main__':
             print('\rPlease wait '+i+' ',end="",flush=True)
             sleep(0.1)
     banner()
-    print(c+'Silahkan hubungi '+a+'https://wa.me/+6289523258649'+c+' jika ada yang mau di bicarakan terkait tool ini, bisnis atau sekedar bertanya kabar. :v\nTerimakasih ^_^')
+    print(c+'Silahkan hubungi '+a+'https://instagram.com/arpunchs'+c+' jika ada yang mau di bicarakan terkait script ini, juga tutorial di YouTube kami. :v\nTerimakasih ^_^')
 
 # ini cuma shortcut buat bantu para nub
