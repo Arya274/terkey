@@ -16,8 +16,8 @@ $python terkey.py
 #  This is my script
 Dont seller this !
 ```Hum
-[`Youtube`](youtube.com/DrawlNag)
-[`Instagram`](instagram.com/arpunchs)
+[`Youtube`](https://youtube.com/c/DrawlNag)
+[`Instagram`](https://instagram.com/arpunchs)
 
 I hope you enjoy It ?
 ```
